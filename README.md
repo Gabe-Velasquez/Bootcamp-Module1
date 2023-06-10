@@ -1,11 +1,11 @@
 # Code Refactor Starter Code
-## Table of Contents (Optional)
+## Table of Contents 
 
 N/A
 
 ## Installation
 
-No installation needed. Landing page is static and is hosted on Github Pages.
+No installation needed. Landing page is static and is hosted on Github.
 
 ## Usage
 
