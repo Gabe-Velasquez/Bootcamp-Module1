@@ -1,7 +1,7 @@
 # Code Refactor Starter Code
-## Table of Contents 
+## Introduction
 
-N/A
+First module of bootcamp. We needed to refactor code given to us to make it a better use experience for others working on code in future. *Campfire Rule*
 
 ## Installation
 
@@ -13,7 +13,7 @@ Do you or anyone need help to establish and grow your online presence? Have Hori
 
 ## Credits
 
-N/A
+Xander (https://github.com/Xandromus) for providing starter code for this module.
 
 ## License
 
